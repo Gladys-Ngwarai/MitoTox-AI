@@ -1,0 +1,4 @@
+model,threshold
+RandomForest,0.6600000000000001
+XGBoost,0.7000000000000002
+LogisticRegression,0.7900000000000001
