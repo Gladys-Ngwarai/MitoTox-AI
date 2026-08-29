@@ -40,7 +40,6 @@ st.set_page_config(
 
 MODEL_PATH = os.path.join(
     PROJECT_ROOT,
-    "notebooks",
     "mitotox_xgboost_model_final.pkl"
 )
 
